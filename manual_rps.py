@@ -2,13 +2,13 @@
 import random 
 
 def get_computer_choice():
-  computer_option = ["rock", "paper", "scissor"]
-  computer_choice = random.choice(computer_option)
-  return computer_choice
+    computer_option = ["rock", "paper", "scissor"]
+    computer_choice = random.choice(computer_option)
+    return computer_choice
 
 def get_user_choice ():
-  user_choice = input("Play")
-  return user_choice
+    user_choice = input("Play")
+    return user_choice
 
 def get_winner (computer_choice, user_choice):
   print(f"The computer picked {computer_choice}, you picked {user_choice}")
