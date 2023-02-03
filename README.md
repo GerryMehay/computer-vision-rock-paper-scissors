@@ -66,3 +66,5 @@ Inside the function you will call all the other three functions you've created (
 Now when you run the code, it should play a game of Rock-Paper-Scissors, and it should print whether the computer or you won.
   
 ## Milestone 5
+ <img width="1440" alt="Screenshot 2023-02-03 at 18 42 42" src="https://user-images.githubusercontent.com/117312778/216682345-3eb93032-b2e5-4f71-8b3d-6d703774480a.png">
+
